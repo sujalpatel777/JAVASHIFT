@@ -1,0 +1,28 @@
+#colord {
+    display: flex;
+}
+
+#pink,
+#red,
+#blue,
+#yellow {
+    height: 50px;
+    width: 50px;
+    margin: 5px;
+}
+
+#pink {
+    background-color: pink;
+}
+
+#red {
+    background-color: red;
+}
+
+#blue {
+    background-color: blue;
+}
+
+#yellow {
+    background-color: yellow;
+}
